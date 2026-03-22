@@ -1,1 +1,2 @@
 Primera línea
+Añado más contenido al fichero y lo comprobamos
